@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ################################################################
-# Method 2 - Request user to pass values in command prompt
+# Method 2 - Request user to pass values in terminal as input
 ################################################################
 
 # Prompt the use to enter 1st number
