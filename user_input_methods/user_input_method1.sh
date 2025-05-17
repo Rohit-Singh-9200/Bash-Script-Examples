@@ -2,7 +2,7 @@
 
 ##########################################################
 # Method1 - Pass values while running the script
-# Example ./userinput.sh 2 3
+# Example ./user_input_method1.sh 2 3
 ###########################################################
 
 set -e
