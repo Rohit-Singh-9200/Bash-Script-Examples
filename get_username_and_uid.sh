@@ -9,6 +9,8 @@ set -o pipefail
 
 username=$(sudo cat /etc/passwd | awk -F: '($3>999){ print $1,$3 }')
 
+# ($3>999) is because by default user UID are more than 1000 for general users
+
 echo "######### Here are the list of general users and their OID in this system ##########"
 echo "$username"
 
