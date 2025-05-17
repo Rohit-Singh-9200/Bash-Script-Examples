@@ -1,7 +1,9 @@
 #!/bin/bash
 
-#Method1 - Pass values while running the script
-#Example ./userinput.sh 2 3
+##########################################################
+# Method1 - Pass values while running the script
+# Example ./userinput.sh 2 3
+###########################################################
 
 set -e
 
