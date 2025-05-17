@@ -1,10 +1,8 @@
 #!/bin/bash
 
-######################################################
-# This Script is to get all the general system
-# username and its UID
-#
-######################################################
+##########################################################################
+# This Script is to get all the general system username and its UID
+##########################################################################
 #set -x
 set -e
 set -o pipefail
