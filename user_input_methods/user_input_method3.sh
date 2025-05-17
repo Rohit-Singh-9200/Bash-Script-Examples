@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##################################################################################
-# Method 3 - Request user to pass values in in terminal without echo message
+# Method 3 - Request user to pass values in in terminal without echo commands
 ##################################################################################
 
 # Prompt the user for 1st number and read it into the 'num1' variable
